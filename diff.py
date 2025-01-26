@@ -5,4 +5,4 @@ num2 = int(input("Enter the second integer: "))
 result = num1 - num2
 
 # Print the result
-print(f"The difference between {num1} and {num2} is {result}")
+print(f"The difference between two numbers {num1} and {num2} is {result}")
