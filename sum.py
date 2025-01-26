@@ -5,4 +5,4 @@ num2 = int(input("Enter the second integer: "))
 result = num1 + num2
 
 # Print the result
-print(f"The sum of {num1} and {num2} is {result}")
+print(f"The sum of  both number {num1} and {num2} is {result}")
